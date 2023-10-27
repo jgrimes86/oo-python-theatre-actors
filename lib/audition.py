@@ -15,3 +15,5 @@ class Audition:
 
     def call_back(self):
         self.hired = True
+    
+    
